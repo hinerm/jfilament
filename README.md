@@ -1,4 +1,4 @@
-[![](https://travis-ci.org/odinsbane/jfilament.svg?branch=master)](https://travis-ci.org/odinsbane/jfilament)
+[![](https://github.com/odinsbane/jfilament/actions/workflows/build-main.yml/badge.svg)](https://github.com/odinsbane/jfilament/actions/workflows/build-main.yml)
 
 # jfilament
 JFilament is an ImageJ plugin for segmentation and tracking of 2D and 3D filaments in fluorescenece microscopy images. The main algorithm used in Jfilament is "Stretching Open Active Contours".
